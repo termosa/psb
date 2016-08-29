@@ -1,0 +1,25 @@
+{
+  "name": "psb",
+  "version": "0.0.0",
+  "description": "Pocket Size Boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/termosa/psb.git"
+  },
+  "keywords": [
+    "js",
+    "boilerplate",
+    "vdom",
+    "webpack",
+    "light",
+    "lightweight",
+    "progressive",
+    "isomorphic"
+  ],
+  "author": "Stanislav Termosa <termosa.stanislav@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/termosa/psb/issues"
+  },
+  "homepage": "https://github.com/termosa/psb#readme"
+}
