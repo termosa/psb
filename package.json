@@ -1,7 +1,10 @@
 {
   "name": "psb",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pocket Size Boilerplate",
+  "scripts": {
+    "build": "webpack"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/termosa/psb.git"
@@ -21,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/termosa/psb/issues"
   },
-  "homepage": "https://github.com/termosa/psb#readme"
+  "homepage": "https://github.com/termosa/psb#readme",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  }
 }
